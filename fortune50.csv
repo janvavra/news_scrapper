@@ -1,0 +1,51 @@
+,Rank,Company,CEO,Female,NameNoSpaces,FullName
+0,1,Walmart,Doug McMillon,0,DougMcMillon,Doug McMillon
+1,2,Exxon Mobil,Darren Woods,0,DarrenWoods,Darren W. Woods
+2,3,Berkshire Hathaway,Warren Buffett,0,WarrenBuffett,Warren Buffett
+3,4,Apple,Tim Cook,0,TimCook,Tim Cook
+4,5,UnitedHealth Group,David Wichmann,0,DavidWichmann,David S. Wichmann
+5,6,McKesson,John Hammergren,0,JohnHammergren,John H. Hammergren
+6,7,CVS Health,Larry Merlo,0,LarryMerlo,Larry J. Merlo
+7,8,Amazon.com,Jeff Bezos,0,JeffBezos,Jeff Bezos
+8,9,AT&T,Randall Stephenson,0,RandallStephenson,Randall L. Stephenson
+9,10,General Motors,Mary Barra,1,MaryBarra,Mary T. Barra
+10,11,Ford Motor,James Hackett,0,JamesHackett,James P. Hackett
+11,12,AmerisourceBergen,Steven Collis,0,StevenCollis,Steven H. Collis
+12,13,Chevron,Mike Wirth,0,MikeWirth,Mike Wirth
+13,14,Cardinal Health,Michael Kaufmann,0,MichaelKaufmann,Michael C. Kaufmann
+14,15,Costco,Craig Jelinek,0,CraigJelinek,W. Craig Jelinek
+15,16,Verizon,Lowell McAdam,0,LowellMcAdam,Lowell C. McAdam
+16,17,Kroger,Rodney McMullen,0,RodneyMcMullen,W. Rodney McMullen
+17,18,General Electric,John Flannery ,0,JohnFlannery,John L. Flannery Jr.
+18,19,Walgreens Boots Alliance,Stefano Pessina,0,StefanoPessina,Stefano Pessina
+19,20,JPMorgan Chase,James Dimon,0,JamesDimon,James Dimon
+20,21,Fannie Mae,Timothy Mayopoulos,0,TimothyMayopoulos,Timothy J. Mayopoulos
+21,22,Alphabet,Larry Page,0,LarryPage,Larry Page
+22,23,Home Depot,Craig Menear,0,CraigMenear,Craig A. Menear
+23,24,Bank of America Corp.,Brian Moynihan,0,BrianMoynihan,Brian T. Moynihan
+24,25,Express Scripts Holding,Timothy Wentworth,0,TimothyWentworth,Timothy C. Wentworth
+25,26,Wells Fargo,Timothy Sloan,0,TimothySloan,Timothy J. Sloan
+26,27,Boeing,Dennis Muilenburg,0,DennisMuilenburg,Dennis A. Muilenburg
+27,28,Phillips 66,Greg Garland,0,GregGarland,Greg C. Garland
+28,29,Anthem,Gail Boudreaux,0,GailBoudreaux,Gail K. Boudreaux
+29,30,Microsoft,Satya Nadella,0,SatyaNadella,Satya Nadella
+30,31,Valero Energy,Joseph Gorder,0,JosephGorder,Joseph W. Gorder
+31,32,Citigroup,Michael Corbat,0,MichaelCorbat,Michael L. Corbat
+32,33,Comcast,Brian Roberts,0,BrianRoberts,Brian L. Roberts
+33,34,IBM,Ginni Rometty,1,GinniRometty,Ginni Rometty
+34,35,Dell Technologies,Michael Dell,0,MichaelDell,Michael S. Dell
+35,36,State Farm Insurance Cos.,Michael Tipsord,0,MichaelTipsord,Michael L. Tipsord
+36,37,Johnson & Johnson,Alex Gorsky,0,AlexGorsky,Alex Gorsky
+37,38,Freddie Mac,Donald Layton,0,DonaldLayton,Donald H. Layton
+38,39,Target,Brian Cornell,0,BrianCornell,Brian C. Cornell
+39,40,Lowes,Robert Niblock,0,RobertNiblock,Robert A. Niblock
+40,41,Marathon Petroleum,Gary Heminger,0,GaryHeminger,Gary R. Heminger
+41,42,Procter & Gamble,David Taylor,0,DavidTaylor,David S. Taylor
+42,43,MetLife,Steven Kandarian,0,StevenKandarian,Steven A. Kandarian
+43,44,UPS,David Abney,0,DavidAbney,David P. Abney
+44,45,PepsiCo,Indra Nooyi,0,IndraNooyi,Indra K. Nooyi
+45,46,Intel,Robert Swan,0,RobertSwan,Robert H. Swan
+46,47,DowDuPont,Edward Breen,0,EdwardBreen,Edward D. Breen
+47,48,Archer Daniels Midland,Juan Luciano,0,JuanLuciano,Juan R. Luciano
+48,49,Aetna,Mark Bertolini,0,MarkBertolini,Mark T. Bertolini
+49,50,FedEx,Frederick Smith,0,FrederickSmith,Frederick W. Smith
